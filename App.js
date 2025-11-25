@@ -175,8 +175,8 @@ export default function App() {
                       style={styles.appIcon}
                     />
                     <View style={styles.appInfo}>
-                      <Text style={styles.appName}>SmartCity</Text>
-                      <Text style={styles.creatorName}>Grupo Garza Limón</Text>
+                      <Text style={styles.appName}>Woman driver</Text>
+                      <Text style={styles.creatorName}>Satori Tech</Text>
 
                       <View style={styles.versionContainer}>
                         <MaterialCommunityIcons name={platformIcon} size={24} color="#ccc" />
@@ -218,8 +218,8 @@ export default function App() {
                       style={styles.appIcon}
                     />
                     <View style={styles.appInfo}>
-                      <Text style={styles.appNameUpdate}>SmartCity</Text>
-                      <Text style={styles.creatorNameUpdate}>Grupo Garza Limon</Text>
+                      <Text style={styles.appNameUpdate}>Woman Driver</Text>
+                      <Text style={styles.creatorNameUpdate}>Satori Tech</Text>
 
                       <View style={styles.versionContainer}>
                         <Text style={[styles.versionText, { textAlign: 'center' }]}>Existe una nueva version actualiza los datos</Text>
