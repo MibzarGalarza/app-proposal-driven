@@ -39,8 +39,8 @@ Antes de comenzar, asegúrate de tener instalado:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/MibzarGalarza/proposal-app.git
-cd woman-drive-proposal
+git clone https://github.com/MibzarGalarza/app-proposal-driven.git
+cd app-proposal-driven
 ```
 
 ### 2. Instalar dependencias
@@ -148,7 +148,7 @@ npm run web
 ## 📱 Estructura del Proyecto
 
 ```
-woman-drive-proposal/
+app-proposal-driven/
 ├── assets/                      # Recursos estáticos (imágenes, iconos, animaciones)
 ├── src/
 │   ├── animations/             # Componentes de animaciones Lottie
@@ -255,7 +255,9 @@ Este proyecto es privado y confidencial.
 
 ## 📞 Soporte
 
-Si tienes alguna pregunta o problema, por favor abre un issue en el repositorio.
+Si tienes alguna pregunta o problema, por favor abre un issue en el repositorio de GitHub:
+
+👉 [https://github.com/MibzarGalarza/app-proposal-driven](https://github.com/MibzarGalarza/app-proposal-driven)
 
 ---
 
